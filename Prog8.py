@@ -1,3 +1,4 @@
+#sum of its number
 i = int(input("Enter Number: "))
 sum = 0
 a = 1
