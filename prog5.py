@@ -1,3 +1,4 @@
+#divisible by x,y,z
 i = int(input("Enter Number: "))
 a = 1
 while i>=0:
